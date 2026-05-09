@@ -16,9 +16,9 @@ Cybersecurity graduate focused on threat detection, incident response, and ident
 
 ## What I'm working on
 
-🏠 Setup & configured a secure home network firewall running OpenWRT, segmented into isolated VLANs and implementing per-VLAN DHCP, Cloudflare malware-blocking DNS, and IoT DNS hijack rules    
+🏠 Building a segmented home network — Raspberry Pi 5 router/firewall with isolated Personal, Guest & IoT VLANs, Pi-hole DNS filtering, and Cloudflare malware-blocking DNS    
 🍯 Honeypot threat monitoring on a Raspberry Pi — capturing live IoT attack patterns  
-🏠 Home lab with full AD/Entra ID hybrid domain, Wazuh + Security Onion SIEM stack  
+🔬 Home lab with full AD/Entra ID hybrid domain, Wazuh + Security Onion SIEM stack  
 📝 Writing about polyglot file abuse and stealth malware delivery techniques
 
 ## Portfolio
