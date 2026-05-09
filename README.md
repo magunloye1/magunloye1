@@ -43,7 +43,7 @@ My full project write-ups, labs, and research:
 ![SC-900](https://img.shields.io/badge/SC--900-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![DP-900](https://img.shields.io/badge/DP--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![SC-300](https://img.shields.io/badge/SC--300-gray?style=flat&logo=microsoft&logoColor=white)
-![GWAPT](https://img.shields.io/badge/GWAPT-0078D4?style=flat)
+![GWAPT](https://img.shields.io/badge/GWAPT-gray?style=flat)
 _(SC-300 in progress)_
 
 ---
