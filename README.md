@@ -52,7 +52,7 @@ My full project write-ups, labs, and research:
 
 Actively looking for SOC analyst, incident response, and identity security roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marv-wip](https://www.linkedin.com/in/marvelousagunloye/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvelousagunloye/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/magunloye1)
 
 <!---
