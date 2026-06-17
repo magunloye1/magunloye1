@@ -29,6 +29,7 @@ My full project write-ups, labs, and research:
 
 ## Certifications at a glance
 
+![GWAPT](https://img.shields.io/badge/GWAPT-0078D4?style=flat)
 ![GCFE](https://img.shields.io/badge/GCFE-0078D4?style=flat)
 ![GMON](https://img.shields.io/badge/GMON-0078D4?style=flat)
 ![GCIA](https://img.shields.io/badge/GCIA-0078D4?style=flat)
@@ -43,8 +44,7 @@ My full project write-ups, labs, and research:
 ![SC-900](https://img.shields.io/badge/SC--900-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![DP-900](https://img.shields.io/badge/DP--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![SC-300](https://img.shields.io/badge/SC--300-gray?style=flat&logo=microsoft&logoColor=white)
-![GWAPT](https://img.shields.io/badge/GWAPT-gray?style=flat)
-*(SC-300 & GWAPT in progress)*
+*(SC-300 in progress)*
 
 ---
 
