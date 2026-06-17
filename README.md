@@ -7,7 +7,7 @@
 
 Cybersecurity graduate focused on threat detection, incident response, and identity security. I build hands-on labs, break things intentionally, and document everything.
 
-![GIAC](https://img.shields.io/badge/GIAC%20Certified%20(8×)-0078D4?style=flat&logoColor=white)
+![GIAC](https://img.shields.io/badge/GIAC%20Certified%20(9×)-0078D4?style=flat&logoColor=white)
 ![SOC & IR](https://img.shields.io/badge/SOC%20%26%20IR-1D9E75?style=flat&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM%20%2F%20Entra%20ID-7F77DD?style=flat&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Azure%20·%20AWS-BA7517?style=flat&logoColor=white)
